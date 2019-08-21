@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6, #home .heading strong {
 	background: rgba(255,255,255,0.35);
 }
 a {
-	color: #fff;
+	/*color: #fff;*/
 	text-decoration: none;
 	text-shadow: none;
 	-webkit-transition: all 0.2s linear;
@@ -334,7 +334,7 @@ h2, .h2 {
 	text-shadow: none;
 	vertical-align: middle;
 	color: #ff7900;
-	border: 1px solid rgba(255, 255, 255, 0.2);
+	border: 1px solid rgba(255, 121, 0, 0.7);
 	padding: 10px 30px;
 	height: auto;
 	background: rgba(255, 255, 255, 0.5);
@@ -423,11 +423,11 @@ h2, .h2 {
 /*home*/
 
 #home .heading h2 {
-	color: #fff;
+	color: #000;
 	font-size: 54px !important;
 }
 #home .heading strong {
-	color: #fff;
+	color: #000;
 	font-size: 30px;
 	font-weight: normal;
 }
